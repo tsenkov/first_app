@@ -9,7 +9,7 @@ Things you may want to cover:
 
 * System dependencies
 
-* Configuration
+* Configuration 1
 
 * Database creation
 
