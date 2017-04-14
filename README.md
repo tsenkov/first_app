@@ -11,7 +11,7 @@ Things you may want to cover:
 
 * Configuration
 
-* Database creation12
+* Database creation
 
 * Database initialization
 
@@ -19,9 +19,6 @@ Things you may want to cover:
 
 * Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions1
+* Deployment instructions
 
 * ...
-
-* Some changes
-some stuff
